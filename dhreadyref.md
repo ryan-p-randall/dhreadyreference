@@ -1,3 +1,5 @@
+# Digital Humanities Ready Reference 
+
 ## General DH Websites and Guides  
 
 - arts-humanities.net: guide to digital humanities & arts   
