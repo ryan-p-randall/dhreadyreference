@@ -5,6 +5,6 @@ This is a ready reference companion to our presentation, given at the "New Direc
 
 Here can find the presentation slides.  
 
-You can also see the main LibGuide-style information page by clicking on "dhreadyref.md". 
+You can also see the main LibGuide-style information page by clicking on [dhreadyref.md](/dhreadyref.md). 
 
 
