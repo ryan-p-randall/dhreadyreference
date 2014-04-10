@@ -1,7 +1,7 @@
 dhreadyreference
 ================
 
-This is a ready reference companion to "Don't Know Much About [Digital] Humanities? Bringing DH to the Desk", a presentation given at the [New Directions in Information Fluency conference at Augustana College](http://www.augustana.edu/x58909.xml) by [Katherine Ahnberg](http://katherineahnberg.wordpress.com) and [Ryan P. Randall](http://www.ryanpatrickrandall.com). 
+This is a ready reference companion to "Don't Know Much About [Digital] Humanities? Bringing DH to the Desk", a presentation given at the [New Directions in Information Fluency conference](http://www.augustana.edu/x58909.xml) at Augustana College by [Katherine Ahnberg](http://katherineahnberg.wordpress.com) and [Ryan P. Randall](http://www.ryanpatrickrandall.com).  
 
 You can see the main LibGuide-style information page by clicking on [dhreadyref.md](/dhreadyref.md). 
 
