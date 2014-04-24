@@ -5,4 +5,4 @@ This is a ready reference companion to "Don't Know Much About [Digital] Humaniti
 
 You can see the main LibGuide-style information page by clicking on [dhreadyref.md](/dhreadyref.md). 
 
-You can also download the presentation slides by [clicking here](https://dl.dropboxusercontent.com/u/5210789/Augustana%20DHPresentation.pptx), which should automatically download the file to your computer.  
+You can also download the presentation slides by [clicking here](https://github.com/ryan-p-randall/dhreadyreference/blob/master/Augustana%20DHPresentation.pdf), which should automatically download the file to your computer.  
