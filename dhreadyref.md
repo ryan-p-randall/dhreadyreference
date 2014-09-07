@@ -85,5 +85,5 @@
 
 ## Suggested Reading 
 
-From Vandegrift and Varner’s excellent article, “Evolving in Common: Creating Mutually Supportive Relationships Between Libraries and the Digital Humanities” (Journal of Library Administration, Jan 2013): 
+From Vandegrift and Varner’s excellent article, [“Evolving in Common: Creating Mutually Supportive Relationships Between Libraries and the Digital Humanities” (Journal of Library Administration, Jan 2013)](http://www.academia.edu/2868249/Evolving_in_common_Creating_mutually_supportive_relationships_between_libraries_and_the_digital_humanities): 
 ![Suggested Further Reading](vandegrift_further_reading.png)
